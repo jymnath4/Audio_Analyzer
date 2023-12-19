@@ -1,6 +1,5 @@
 streamlit
 assemblyai
-AutoTokenizer
-AutoModelForSequenceClassification
-softmax
+transformers
+scipy.special
 Image
